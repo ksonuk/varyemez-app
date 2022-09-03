@@ -2,8 +2,7 @@
 <img src="https://play-lh.googleusercontent.com/no6jxtqDz44_rwW0rvu80pe3-e3D2BmJol_4p-6r3oaGaRfL0FyEhpehp1oXCe1byOBW=w832-h470-rw">
 
 <h2>Tanıtım</h2>
-Varyemez, sanal bir başlangıç servetini borsa, döviz, altın, kripto, gayrimenkul gibi yatırım araçlarıyla daha da artırmayı hedef alan bir oyundur. 
-Hisse alıp satabilir, gayrimenkullerinizi kiraya verebilir, işlem geçmişlerine bakabilir, grafiklerden varlıklarınızı takip edebilirsiniz. Gerçek veriler sayesinde hangi yatırım aracının daha faydalı olduğunu saptayabilirsiniz.
+Varyemez, sanal bir başlangıç servetini borsa, döviz, altın, kripto, ham madde, gayrimenkul gibi yatırım araçlarıyla daha da artırmayı hedefleyen bir oyundur. Sanal servetinizle menkul değerler alıp satabilir, gayrimenkullerinizi kiraya verebilir, işlem geçmişlerine bakabilir, grafiklerden varlıklarınızı takip edebilirsiniz. Gerçek veriler sayesinde hangi yatırım aracının daha faydalı olduğunu saptayabilirsiniz.
 
 <h2>Teknik</h2>
 Varyemez, Flutter ile geliştirildi ve Android-iOS platformlarına dağıtıldı.
